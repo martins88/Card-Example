@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomCard">
+        <attr name="cardType" format="enum">
+            <enum name="cardOne" value="0"/>
+            <enum name="cardTwo" value="1"/>
+        </attr>
+    </declare-styleable>
+
+</resources>

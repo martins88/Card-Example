@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card Example</string>
+    <string name="card_title">Card title, will be common on all cards.</string>
+    <string name="card_bottom">This is the bottom of the card, which is common to all cards.</string>
+    <string name="text_dynamic_one">This is the dynamic text of the card one.</string>
+    <string name="text_dynamic_two">This is the dynamic text of the card two.</string>
+</resources>
